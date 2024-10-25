@@ -9,4 +9,4 @@ This project demonstrates how to set up and run an Expo application with a self-
 - Docker containerization for both frontend and backend
 - Easy local development and production deployment
 
-[Read more on blog post](https://expost.dev/blog/expo-router-self-hosted-docker)
+[Read more on blog post](https://expostarter.com/blog/expo-router-self-hosted-docker)
